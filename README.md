@@ -46,7 +46,7 @@ PII entities are identified using the **BIO (Beginning–Inside–Outside)** tag
 ### Example
 
 <p align="center">
-  <img src="Images/BIO-tag-examples.png" width="60%">
+  <img src="Images/BIO-tag-examples.png" width="600">
 </p>
 
 This tagging enables precise identification of sensitive information such as:
